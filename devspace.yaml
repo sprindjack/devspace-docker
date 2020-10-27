@@ -16,3 +16,4 @@ deployments:
 vars:
 - name: INGRESS_HOST
   question: "Which domain do you want to use to expose Trilium to the public?"        
+
